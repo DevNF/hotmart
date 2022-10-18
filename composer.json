@@ -1,0 +1,19 @@
+{
+    "name": "fuganholi/hotmart",
+    "description": "Biblioteca base para comunicaçao com a API do Hotmart",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Almeida",
+            "email": "diego.feres82@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Fuganholi\\Hotmart\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
